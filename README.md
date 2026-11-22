@@ -1,13 +1,22 @@
 # 🏥 DoctorP — Full-Stack Doctor Appointment Booking Platform
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-20+-green?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-Auth-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Tests-31%20Passing-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployed-Render%20%7C%20Vercel-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-MVC-purple?style=for-the-badge" />
+</p>
+
 > **A modern, responsive, and secure healthcare appointment platform built with the MERN stack following clear MVC architecture.**  
 > College Capstone Full-Stack Web Development Project.
 
 ---
 
-## 🌟 Live Demo & Deployment Links
-- **Frontend App:** [https://doctorp.vercel.app](https://doctorp.vercel.app) *(Replace with your deployed URL)*
-- **Backend API:** [https://doctorp-api.onrender.com/api](https://doctorp-api.onrender.com/api) *(Replace with your deployed Render URL)*
+## 🌟 Deployment Links
+- **Frontend App:** [https://doctorp.vercel.app](https://doctorp.vercel.app)
+- **Backend API:** [https://doctorp-api.onrender.com/api](https://doctorp-api.onrender.com/api)
 - **API Health Check:** [https://doctorp-api.onrender.com/api/health](https://doctorp-api.onrender.com/api/health)
 
 ---
@@ -328,3 +337,14 @@ Result:
 
 ## 📄 License
 This project is developed as an academic capstone project. Feel free to reference and build upon it!
+
+
+---
+
+## 👩‍💻 Author
+
+**Yashika Garg** — B.E. CSE (AI & ML), Chitkara University
+- GitHub: [@yashika-34](https://github.com/yashika-34)
+- Email: gargy0189@gmail.com
+
+*Building secure, scalable healthcare platforms with the MERN stack.* 🏥
